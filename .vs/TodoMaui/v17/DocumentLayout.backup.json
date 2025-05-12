@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sources\\Portfolio\\TodoMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E898FA1A-8037-4C13-B633-454FD503934C}|TodoMaui\\TodoMaui.csproj|d:\\sources\\portfolio\\todomaui\\todomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E898FA1A-8037-4C13-B633-454FD503934C}|TodoMaui\\TodoMaui.csproj|solutionrelative:todomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\sources\\Portfolio\\TodoMaui\\TodoMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TodoMaui\\MainPage.xaml",
+              "ToolTip": "D:\\sources\\Portfolio\\TodoMaui\\TodoMaui\\MainPage.xaml",
+              "RelativeToolTip": "TodoMaui\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T14:51:40.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
